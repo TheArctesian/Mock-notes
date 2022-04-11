@@ -28,8 +28,28 @@
 | Tesla (T) | Magnetic Field | kgm<sup>2</sup>s<sup>-2</sup>A<sup>-1</sup> |
 | becquerel (Bq) | Radioactivity | s<sup>-1</sup> | 
 
+### Accuracy vs Precision 
+<img src="..//Assets/avp.jpg" width=1000></img>
+
 ### Absolute uncertainty
 Absolute uncertainty is the uncertainty in a measurement, represented in the relevant SI units. 
 ```
 for a stopwatch the minium number is 0.01 therefore the uncertainty will be x ± 0.01. 
 ```
+
+### Fractional uncertainty
+
+The ratio of absolute uncertainty to the measured value. 
+
+### Percentage uncertainty 
+
+The fractional uncertainty expressed as a percentage 
+
+### Uncertainty Calculations  
+if y = a ± b then Δy = Δa + Δb
+
+if y = <sup>ab</sup>&frasl;<sub>c</sub> then <sup>Δy</sup>&frasl;<sub>y</sub> = <sup>Δa</sup>&frasl;<sub>a</sub> + <sup>Δb</sup>&frasl;<sub>b</sub> + <sup>Δc</sup>&frasl;<sub>c</sub>
+
+
+
+if y= a<sup>n</sup> then <sup>Δy</sup>&frasl;<sub>y</sub> = |n(<sup>Δa</sup>&frasl;<sub>a</sub>)|
