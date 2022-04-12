@@ -29,7 +29,7 @@
 | becquerel (Bq) | Radioactivity | s<sup>-1</sup> | 
 
 ### Accuracy vs Precision 
-<img src="..//Assets/avp.jpeg" width=1000></img>
+<img src="..//Assets/avp.jpg" width=1000></img>
 
 ### Absolute uncertainty
 Absolute uncertainty is the uncertainty in a measurement, represented in the relevant SI units. 
