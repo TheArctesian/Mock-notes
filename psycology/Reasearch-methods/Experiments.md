@@ -12,6 +12,7 @@
     <td>Lab Experiments</td>
     <td>Experiments preformed in a controlled environment using standardized procedures with participants randomly allocated to experimental groups </td>
     <td>
+
 - Hight degree of control
   - Experimenters control all vars and the IV and DV are precisely operationalized and measured leading to greater accuracy and objectivity.
 - Replication
@@ -21,6 +22,7 @@
 - Isolation of Var
   - In the lab, individual pieces of behavior can be isolated and rigorously tested </td>
   <td>
+  
 - Experimenter Bias
   - Experimenter's expectations can affect results and participants may be influenced by these expectations
 - Problems Operationalizing IV & DV
